@@ -1,1 +1,1 @@
-###This folder contains Basic Array problems
+This folder contains Basic Array problems
